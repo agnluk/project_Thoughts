@@ -1,3 +1,9 @@
+
+## React Next.js 13 project +google sign in. To Create/Edit/Delete posts by user. MongoDB stores newly created posts.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
